@@ -1,0 +1,41 @@
+paved road straight turn: paved road straight turn (1) paved road pedestrian crossing catholic temple with environment pizzeria house with environment
+paved road straight: paved road straight turn (3) paved road straight turn (4) post office with environment
+paved road straight turn (1): paved road straight turn paved road straight (1) paved road straight (3) catholic temple with environment pizzeria house with environment
+paved road pedestrian crossing: paved road straight turn pizzeria house with environment
+paved road straight (1): paved road straight turn (1) paved road straight (2)
+paved road straight (2): paved road straight (1) paved road turn (3)
+paved road straight (3): paved road straight turn (1) paved road straight (4) pizzeria house with environment
+paved road straight (4): paved road straight (3) paved road pedestrian crossing (1) pizzeria house with environment
+paved road pedestrian crossing (1): paved road straight (4) paved road turn pizzeria house with environment
+paved road turn: paved road pedestrian crossing (1) paved road straight (5)
+paved road straight (5): paved road turn paved road pedestrian crossing (2)
+paved road pedestrian crossing (2): paved road straight (5) paved road turn (2)
+paved road turn (1): paved road straight (6) paved road pedestrian crossing (4) tennis court brown (1) big cottage 1 floor new with environment
+paved road turn (2): paved road pedestrian crossing (2)
+paved road straight (6): paved road turn (1) paved road pedestrian crossing (3) big cottage 1 floor new with environment
+paved road straight (7): paved road pedestrian crossing (3) paved road turn (3) cute house with environment
+paved road pedestrian crossing (3): paved road straight (6) paved road straight (7) cute house with environment big cottage 1 floor new with environment
+paved road turn (3): paved road straight (2) paved road straight (7) cute house with environment
+paved road straight (8): paved road straight (9) paved road straight (10) catholic temple with environment
+paved road straight (9): paved road straight (8) paved road pedestrian crossing (4)
+paved road pedestrian crossing (4): paved road turn (1) paved road straight (9) tennis court brown (1)
+paved road straight (10): paved road straight (8) paved road pedestrian crossing (5) catholic temple with environment
+paved road straight (11): paved road straight turn (2) paved road straight turn (4) post office with environment
+paved road pedestrian crossing (5): paved road straight (10)
+paved road straight turn (2): paved road straight (11) brewery house with environment
+paved road straight turn (3): paved road straight paved road turn (4)
+paved road straight turn (4): paved road straight paved road straight (11) post office with environment
+paved road turn (4): paved road straight turn (3) paved road straight (12) post office with environment
+paved road straight (12): paved road turn (4) paved road straight (13)
+paved road straight (13): paved road straight (12) paved road pedestrian crossing (6)
+paved road pedestrian crossing (6): paved road straight (13) paved road turn (5) city hall with environment
+paved road turn (5): paved road pedestrian crossing (6) city hall with environment
+cute house with environment: paved road straight (7) paved road pedestrian crossing (3) paved road turn (3)
+tennis court brown (1): paved road turn (1) paved road pedestrian crossing (4)
+big cottage 1 floor new with environment: paved road turn (1) paved road straight (6) paved road straight (6) paved road pedestrian crossing (3)
+tennis court brown:
+city hall with environment: paved road pedestrian crossing (6) paved road turn (5)
+post office with environment: paved road straight paved road straight (11) paved road straight turn (4) paved road turn (4)
+brewery house with environment: paved road straight turn (2)
+catholic temple with environment: paved road straight turn paved road straight turn (1) paved road straight (8) paved road straight (10)
+pizzeria house with environment: paved road straight turn paved road straight turn (1) paved road pedestrian crossing paved road straight (3) paved road straight (4) paved road pedestrian crossing (1)

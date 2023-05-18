@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Palmov Island/Low Poly Houses Free Pack/Scenes/Low Poly City Mega
+      Pack Free.unity
+    guid: 06db8b40c9740a44ea32f0266002716d
+  m_configObjects: {}
